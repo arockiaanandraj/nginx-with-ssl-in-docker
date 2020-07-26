@@ -1,0 +1,24 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>Home</title>
+  <meta name="description" content="Home">
+  <meta name="author" content="Anand">
+
+  <script type="application/javascript">
+    function getIP(json) {
+      document.write("Hello there! - Your Public IP address is: ", json.ip);
+      document.write("<br/> Hostname is: ",location.host);
+    }
+  </script>
+  
+  <script type="application/javascript" src="https://api.ipify.org?format=jsonp&callback=getIP"></script>
+</head>
+
+<body>
+  
+</body>
+</html>
