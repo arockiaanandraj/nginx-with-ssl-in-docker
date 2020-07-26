@@ -1,5 +1,5 @@
 # nginx-with-ssl-in-docker
-The files in this repository can be used to setup docker containers for nginx and certbot. This has been used to setup an initial hosting on the cloud (Digital Ocean) using my domain - [www.arcadian.dev](www.arcadian.dev)
+The files in this repository can be used to setup docker containers for nginx and certbot. This has been used to setup an initial hosting on the cloud (Digital Ocean) using my domain - [https://arcadian.dev](https://arcadian.dev)
 
 ### Instructions
 
